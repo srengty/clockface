@@ -1,5 +1,6 @@
 {
     "name": "clockface",
     "version": "1.0.0",
-    "description": ""
+    "description": "",
+    "main": "js/clockface.js"
 }
